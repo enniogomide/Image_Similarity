@@ -1,0 +1,13 @@
+.vscode
+__pycache__
+Fashion_data
+Images
+img_vectors
+ImgSim
+Kaggle
+venv
+kaggle.json
+ngrok_authtoken.txt
+styles.csv
+t.ann
+comandosInit.txt
