@@ -1,11 +1,11 @@
-#**Image Similarity**
+# **Image Similarity**
 
-##**Description**
+## **Description**
 
 is an example of a routine to search for similar images based on a given image (photo). Features used especially on shopping sites to make suggestions.
 
 
-##**Comments**
+## **Comments**
 
 the routine uses a pre-trained network with weights for a huge range of photos. Based on others, additional images should be trained using the transfer learning feature.
 
